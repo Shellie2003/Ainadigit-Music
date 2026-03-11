@@ -1,0 +1,10 @@
+[tool.flet]
+org = "com.ainadigit"
+product = "AinaDigit Music"
+company = "AinaDigit"
+copyright = "Copyright © 2025 AinaDigit"
+description = "Guitar Capo & Keyboard Transpose Calculator"
+
+[tool.flet.android]
+permissions = []
+features = []
